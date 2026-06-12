@@ -99,11 +99,10 @@ Instructions for using the project:
 
 ---
 ## Conclusion 
+- Smoking is the biggest risk feature for hihg claims cost. This single riverputs an individual into a higher cost bracket regardless of age or BMI.
+- Obesity (BMI $\ge$ 30) acts as a compounding multiplier swhen associated with smoking. This results in the highest claims costs
+- The Southeast region has the highest levels of smoking and obesity (high BMI) rates. Remidiation could be target at this region as a priority.
 
-- Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
 
 ---
 
