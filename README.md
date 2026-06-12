@@ -38,7 +38,7 @@ Health Insurance Claims Analysis with Power BI v2, analyzing demographic and beh
 
 
 <P>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Power BI&logoColor=white" alt="Power BIp"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -94,9 +94,8 @@ Instructions for using the project:
 
 ## Technical Features Demonstrated
 - Interactive dashboard action filtering (Filter by region or smoking status).
-- Custom Box-and-Whisker distribution analysis.
-- 100% Stacked bar chart implementations utilizing quick table calculations.
-- Data cleansing, type structuring, and metric aggregation management.
+- 100% Stacked bar chart.
+- Metric aggregation management.
 
 ---
 ## Conclusion 
