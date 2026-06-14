@@ -27,6 +27,8 @@ Health Insurance Claims Analysis with Power BI v2, analyzing demographic and beh
 - This dataset was also used in the Jupyter notebook repo
 - Size of the dataset is 1338 rows and 7 columns
 
+Dataset: insurance.csv
+
 ---
 
 <h2>Technologies Used</h2>
